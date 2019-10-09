@@ -537,7 +537,7 @@
         <location filename="../../../src/plugins/coreplugin/editormanager/editormanager.cpp" line="211"/>
         <location filename="../../../src/plugins/coreplugin/editormanager/editormanager.cpp" line="1776"/>
         <source>Revert to Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>復原至儲存版本</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/coreplugin/editormanager/editormanager.cpp" line="198"/>
@@ -13365,7 +13365,7 @@ What do you want to do?</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakerunconfiguration.cpp" line="97"/>
         <source>The project no longer builds the target associated with this run configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">專案將不再建置關聯至此執行設定的目標 (target)。</translation>
     </message>
 </context>
 <context>
@@ -20521,7 +20521,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/wizards/subdirsprojectwizarddialog.cpp" line="41"/>
         <source>This wizard generates a Qt Subdirs project. Add subprojects to it later on by using the other wizards.</source>
-        <translation type="unfinished"></translation>
+        <translation>這個精靈會產生 Qt 子目錄專案。請稍候使用其他精靈來新增子專案至此。</translation>
     </message>
 </context>
 <context>
@@ -24336,7 +24336,7 @@ Excluding: %3
     <message>
         <location filename="../../../src/plugins/texteditor/codestyleeditor.cpp" line="60"/>
         <source>Edit preview contents to see how the current settings are applied to custom code snippets. Changes in the preview do not affect the current settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯預覽內容以檢視目前設定如何套用至自訂程式碼片段。預覽變更不會影響目前設定。</translation>
     </message>
 </context>
 <context>
@@ -24924,7 +24924,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location filename="../../../src/plugins/qtsupport/showbuildlog.ui"/>
         <source>Debugging Helper Build Log</source>
-        <translation type="unfinished"></translation>
+        <translation>偵錯協助工具建置記錄</translation>
     </message>
 </context>
 <context>
@@ -25955,7 +25955,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/plugins/coreplugin/idocument.cpp" line="285"/>
         <source>File was restored from auto-saved copy. Select Save to confirm or Revert to Saved to discard changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>檔案已從自動儲存複本中復原。選擇「儲存」確認，或選擇「復原至儲存版本」以捨棄變更。</translation>
     </message>
 </context>
 <context>
@@ -28062,7 +28062,7 @@ You can choose another communication channel here, such as a serial line or cust
     <message>
         <location filename="../../../src/plugins/debugger/watchwindow.cpp" line="47"/>
         <source>Locals and Expressions</source>
-        <translation type="unfinished"></translation>
+        <translation>本機變數及表示式</translation>
     </message>
 </context>
 <context>
@@ -39761,7 +39761,7 @@ Executable: %2</source>
     <message>
         <location filename="../../../src/plugins/autotest/testnavigationwidget.cpp" line="298"/>
         <source>Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>測試</translation>
     </message>
 </context>
 <context>
@@ -39769,7 +39769,7 @@ Executable: %2</source>
     <message>
         <location filename="../../../src/plugins/autotest/testoutputreader.cpp" line="76"/>
         <source>Test executable crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>測試執行檔當掉了。</translation>
     </message>
 </context>
 <context>
@@ -39947,7 +39947,7 @@ Executable: %2</source>
     <message>
         <location filename="../../../src/plugins/autotest/testrunconfiguration.h" line="54"/>
         <source>AutoTest Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>AutoTest 除錯</translation>
     </message>
 </context>
 <context>
@@ -40218,7 +40218,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldevice.cpp" line="140"/>
         <source>Bare Metal</source>
-        <translation type="unfinished"></translation>
+        <translation>裸機</translation>
     </message>
 </context>
 <context>
@@ -40226,7 +40226,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldeviceconfigurationfactory.cpp" line="42"/>
         <source>Bare Metal Device</source>
-        <translation type="unfinished"></translation>
+        <translation>裸機裝置</translation>
     </message>
 </context>
 <context>
@@ -40234,7 +40234,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldeviceconfigurationwidget.cpp" line="55"/>
         <source>GDB server provider:</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB 伺服器提供者：</translation>
     </message>
 </context>
 <context>
@@ -40242,7 +40242,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldeviceconfigurationwizard.cpp" line="43"/>
         <source>New Bare Metal Device Configuration Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>新裸機裝置組態設定</translation>
     </message>
 </context>
 <context>
@@ -40273,7 +40273,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalgdbcommandsdeploystep.cpp" line="47"/>
         <source>GDB commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB 指令：</translation>
     </message>
 </context>
 <context>
@@ -40281,7 +40281,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalgdbcommandsdeploystep.cpp" line="107"/>
         <source>GDB commands</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB 指令</translation>
     </message>
 </context>
 <context>
@@ -40289,7 +40289,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalrunconfiguration.cpp" line="47"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
 </context>
 <context>
@@ -40298,7 +40298,7 @@ Check the test environment.</source>
         <location filename="../../../src/plugins/baremetal/defaultgdbserverprovider.cpp" line="78"/>
         <location filename="../../../src/plugins/baremetal/defaultgdbserverprovider.cpp" line="141"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>預設值</translation>
     </message>
 </context>
 <context>
@@ -40329,7 +40329,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/gdbserverprovider.cpp" line="73"/>
         <source>Clone of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 的複本</translation>
     </message>
 </context>
 <context>
@@ -40466,7 +40466,7 @@ Check the test environment.</source>
         <location filename="../../../src/plugins/baremetal/openocdgdbserverprovider.cpp" line="84"/>
         <location filename="../../../src/plugins/baremetal/openocdgdbserverprovider.cpp" line="215"/>
         <source>OpenOCD</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenOCD</translation>
     </message>
 </context>
 <context>
@@ -40513,7 +40513,7 @@ Check the test environment.</source>
         <location filename="../../../src/plugins/baremetal/stlinkutilgdbserverprovider.cpp" line="92"/>
         <location filename="../../../src/plugins/baremetal/stlinkutilgdbserverprovider.cpp" line="212"/>
         <source>ST-LINK Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>ST-LINK 工具程式</translation>
     </message>
 </context>
 <context>
@@ -40724,7 +40724,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/beautifier/artisticstyle/artisticstyleoptionspage.cpp" line="52"/>
         <source>AStyle (*.astylerc)</source>
-        <translation type="unfinished"></translation>
+        <translation>AStyle (*.astylerc)</translation>
     </message>
 </context>
 <context>
@@ -40801,7 +40801,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/beautifier/clangformat/clangformatsettings.cpp" line="137"/>
         <source>No description available.</source>
-        <translation type="unfinished"></translation>
+        <translation>沒有說明。</translation>
     </message>
 </context>
 <context>
@@ -40822,7 +40822,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/beautifier/uncrustify/uncrustifyoptionspage.cpp" line="54"/>
         <source>Uncrustify file (*.cfg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uncrustify 檔案 (*.cfg)</translation>
     </message>
 </context>
 <context>
@@ -41009,7 +41009,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/bineditor/bineditorwidget.cpp" line="1457"/>
         <source>Zoom: %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>縮放：%1%</translation>
     </message>
 </context>
 <context>
@@ -41017,7 +41017,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/bookmarks/bookmarkfilter.cpp" line="41"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>書籤</translation>
     </message>
 </context>
 <context>
@@ -41043,7 +41043,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/clangassistproposalitem.cpp" line="404"/>
         <source>Requires changing &quot;%1&quot; to &quot;%2&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>需要變更「%1」成「%2」</translation>
     </message>
 </context>
 <context>
@@ -41103,7 +41103,7 @@ Check the test environment.</source>
         <location filename="../../../src/plugins/clangcodemodel/clangcompletionassistprocessor.cpp" line="516"/>
         <source>Location: %1</source>
         <extracomment>Parent folder for proposed #include completion</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>位置：%1</translation>
     </message>
 </context>
 <context>
@@ -41119,7 +41119,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/clanghoverhandler.cpp" line="183"/>
         <source>%1 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 位元組</translation>
     </message>
 </context>
 <context>
@@ -41128,7 +41128,7 @@ Check the test environment.</source>
         <location filename="../../../src/plugins/clangcodemodel/clangmodelmanagersupport.cpp" line="492"/>
         <source>Clang</source>
         <extracomment>Display name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clang</translation>
     </message>
 </context>
 <context>
@@ -41188,7 +41188,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/clangformat/clangformatplugin.cpp" line="119"/>
         <source>Open Used .clang-format Configuration File</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟使用過的 .clang-format 組態設定檔案</translation>
     </message>
 </context>
 <context>
@@ -41223,7 +41223,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/clangrefactoring/clangrefactoringplugin.cpp" line="90"/>
         <source>C++ Indexing</source>
-        <translation type="unfinished"></translation>
+        <translation>C++ 索引</translation>
     </message>
 </context>
 <context>
@@ -41239,7 +41239,7 @@ Check the test environment.</source>
     <message>
         <location filename="../../../src/plugins/clangtools/clangtidyclazyrunner.cpp" line="54"/>
         <source>Clang-Tidy and Clazy</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang 淨化 (Tidy) 及 Clazy</translation>
     </message>
 </context>
 <context>
@@ -41540,7 +41540,7 @@ Output:
     <message>
         <location filename="../../../src/plugins/clangtools/clangtoolsdiagnosticview.cpp" line="183"/>
         <source>Suppress This Diagnostic</source>
-        <translation type="unfinished"></translation>
+        <translation>隱藏此診斷訊息</translation>
     </message>
 </context>
 <context>
@@ -41556,7 +41556,7 @@ Output:
     <message>
         <location filename="../../../src/plugins/clangtools/clangtoolsplugin.cpp" line="77"/>
         <source>Clang Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang 工具</translation>
     </message>
 </context>
 <context>
@@ -41564,7 +41564,7 @@ Output:
     <message>
         <location filename="../../../src/plugins/clangtools/clangtoolsplugin.cpp" line="128"/>
         <source>Clang Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang 工具</translation>
     </message>
 </context>
 <context>
@@ -41595,7 +41595,7 @@ Output:
     <message>
         <location filename="../../../src/plugins/clearcase/clearcaseeditor.cpp" line="54"/>
         <source>Annotate version &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>註解版本「%1」</translation>
     </message>
 </context>
 <context>
@@ -41671,7 +41671,7 @@ Output:
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakebuildconfiguration.cpp" line="400"/>
         <source>CMake configuration set by the kit was overridden in the project.</source>
-        <translation type="unfinished"></translation>
+        <translation>專案已覆寫工具所設的 CMake 組態設定。</translation>
     </message>
 </context>
 <context>
@@ -41719,7 +41719,7 @@ Output:
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakebuildstep.cpp" line="155"/>
         <source>The build configuration is currently disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>已停用建置設定。</translation>
     </message>
 </context>
 <context>
@@ -41769,7 +41769,7 @@ Output:
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakeconfigitem.cpp" line="252"/>
         <source>Failed to open %1 for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法開啟 %1 供讀取。</translation>
     </message>
 </context>
 <context>
@@ -42032,7 +42032,7 @@ Output:
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakeprojectconstants.h" line="36"/>
         <source>CMake Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake 編輯器</translation>
     </message>
 </context>
 <context>
@@ -42054,7 +42054,7 @@ Copy the path to the source files to the clipboard?</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakeprojectnodes.cpp" line="122"/>
         <source>CMake Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake 模組</translation>
     </message>
 </context>
 <context>
@@ -42195,7 +42195,7 @@ Copy the path to the source files to the clipboard?</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakespecificsettingspage.cpp" line="81"/>
         <source>CMake</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake</translation>
     </message>
 </context>
 <context>
@@ -43127,7 +43127,7 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/editormanager/editormanager.cpp" line="2242"/>
         <source>Revert to Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>復原至儲存版本</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/coreplugin/editormanager/editormanager.cpp" line="2243"/>
@@ -43155,8 +43155,8 @@ Do you want to check them out now?</source>
     <message numerus="yes">
         <location filename="../../../src/plugins/coreplugin/find/currentdocumentfind.cpp" line="140"/>
         <source>%n occurrences replaced.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>已取代 %n 個發現之處。</numerusform>
         </translation>
     </message>
 </context>
@@ -43308,7 +43308,7 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/find/findtoolwindow.cpp" line="50"/>
         <source>Empty search term.</source>
-        <translation type="unfinished"></translation>
+        <translation>搜尋詞空白。</translation>
     </message>
 </context>
 <context>
@@ -43601,7 +43601,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/externaltoolsfilter.cpp" line="39"/>
         <source>Run External Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>執行外部工具</translation>
     </message>
 </context>
 <context>
@@ -43707,7 +43707,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/locatorfiltersfilter.cpp" line="43"/>
         <source>Available filters</source>
-        <translation type="unfinished"></translation>
+        <translation>可用的過濾器</translation>
     </message>
 </context>
 <context>
@@ -43715,7 +43715,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/locatormanager.cpp" line="66"/>
         <source>&lt;type here&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;在此輸入&gt;</translation>
     </message>
 </context>
 <context>
@@ -43774,7 +43774,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/opendocumentsfilter.cpp" line="44"/>
         <source>Open Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟文件</translation>
     </message>
 </context>
 <context>
@@ -43790,7 +43790,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/menubarfilter.cpp" line="56"/>
         <source>Actions from the Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>選單的動作</translation>
     </message>
 </context>
 <context>
@@ -43836,7 +43836,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/progressmanager/progressmanager.cpp" line="328"/>
         <source>Toggle Progress Details</source>
-        <translation type="unfinished"></translation>
+        <translation>切換進度詳細資訊</translation>
     </message>
 </context>
 <context>
@@ -43909,7 +43909,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpaster/pastecodedotxyzprotocol.cpp" line="143"/>
         <source>%1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -44020,7 +44020,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppcheck/cppcheckoptions.cpp" line="168"/>
         <source>Cppcheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Cppcheck</translation>
     </message>
 </context>
 <context>
@@ -44028,7 +44028,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppcheck/cppcheckrunner.cpp" line="208"/>
         <source>Cppcheck failed to start: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法啟動 Cppcheck：「%1」。</translation>
     </message>
 </context>
 <context>
@@ -44049,7 +44049,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppeditordocument.cpp" line="365"/>
         <source>Note: Multiple parse contexts are available for this file. Choose the preferred one from the editor toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>註：這個檔案有多個可以使用的解析內文。請在編輯器工具列選擇偏好內文。</translation>
     </message>
 </context>
 <context>
@@ -44174,7 +44174,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppeditorwidget.cpp" line="833"/>
         <source>&amp;Refactor</source>
-        <translation type="unfinished"></translation>
+        <translation>重構(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -44218,7 +44218,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppincludehierarchy.cpp" line="521"/>
         <source>Include Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Include 階層</translation>
     </message>
 </context>
 <context>
@@ -44360,7 +44360,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppparsecontext.cpp" line="146"/>
         <source>Clear Preferred Parse Context</source>
-        <translation type="unfinished"></translation>
+        <translation>清空偏好解析內文</translation>
     </message>
 </context>
 <context>
@@ -44414,7 +44414,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/builtinindexingsupport.cpp" line="380"/>
         <source>Parsing C/C++ Files</source>
-        <translation type="unfinished"></translation>
+        <translation>正在解析 C/C++ 檔案</translation>
     </message>
 </context>
 <context>
@@ -44483,7 +44483,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/clangdiagnosticconfigswidget.cpp" line="112"/>
         <source>Web Page</source>
-        <translation type="unfinished"></translation>
+        <translation>網頁</translation>
     </message>
 </context>
 <context>
@@ -44532,7 +44532,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cppchecksymbols.cpp" line="530"/>
         <source>Only virtual functions can be marked &apos;override&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>只有 virtual 函數才能標記 &apos;override&apos;</translation>
     </message>
 </context>
 <context>
@@ -44558,7 +44558,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cppchecksymbols.cpp" line="1408"/>
         <source>Too few arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>參數過少</translation>
     </message>
 </context>
 <context>
@@ -44566,7 +44566,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cppeditoroutline.cpp" line="119"/>
         <source>Sort Alphabetically</source>
-        <translation type="unfinished"></translation>
+        <translation>依字母排序</translation>
     </message>
 </context>
 <context>
@@ -44600,7 +44600,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cpptoolsreuse.cpp" line="321"/>
         <source>C++ Indexer: Skipping file &quot;%1&quot; because it is too big.</source>
-        <translation type="unfinished"></translation>
+        <translation>C++ 索引工具：因「%1」檔案過大而跳過。</translation>
     </message>
 </context>
 <context>
@@ -44663,7 +44663,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/debugger/analyzer/detailederrorview.cpp" line="53"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>複製</translation>
     </message>
 </context>
 <context>
@@ -44700,7 +44700,7 @@ Do you want to kill it?</source>
         <location filename="../../../src/plugins/debugger/breakhandler.cpp" line="94"/>
         <location filename="../../../src/plugins/debugger/breakhandler.cpp" line="152"/>
         <source>Breakpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>中斷點</translation>
     </message>
 </context>
 <context>
@@ -44829,7 +44829,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/debugger/cdb/cdboptionspage.cpp" line="278"/>
         <source>CDB Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>CDB 路徑</translation>
     </message>
 </context>
 <context>
@@ -45765,7 +45765,7 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggerrunconfigurationaspect.cpp" line="215"/>
         <source>Debugger settings</source>
-        <translation type="unfinished"></translation>
+        <translation>除錯器設定</translation>
     </message>
 </context>
 <context>
@@ -45961,7 +45961,7 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="../../../src/plugins/debugger/gdb/gdboptionspage.cpp" line="407"/>
         <source>GDB Extended</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB 延伸</translation>
     </message>
 </context>
 <context>
@@ -46065,7 +46065,7 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="../../../src/plugins/debugger/logwindow.cpp" line="663"/>
         <source>Global Debugger &amp;Log</source>
-        <translation type="unfinished"></translation>
+        <translation>全域除錯器記錄(&amp;L)</translation>
     </message>
 </context>
 <context>
@@ -48428,7 +48428,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/diffeditor/diffeditorconstants.h" line="36"/>
         <source>Diff Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>差異 (diff) 編輯器</translation>
     </message>
 </context>
 <context>
@@ -48436,7 +48436,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/diffeditor/diffeditordocument.cpp" line="265"/>
         <source>Could not parse patch file &quot;%1&quot;. The content is not of unified diff format.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法解析「%1」patch 檔案。內容非 Unified Diff 格式。</translation>
     </message>
 </context>
 <context>
@@ -48444,7 +48444,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/diffeditor/diffeditorplugin.cpp" line="164"/>
         <source>Calculating diff</source>
-        <translation type="unfinished"></translation>
+        <translation>正在計算差異</translation>
     </message>
 </context>
 <context>
@@ -48606,7 +48606,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/diffeditor/diffview.cpp" line="98"/>
         <source>Switch to Unified Diff Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>切換成統一 (Unified) 差異編輯器</translation>
     </message>
 </context>
 <context>
@@ -48629,7 +48629,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/diffeditor/diffview.cpp" line="175"/>
         <source>Switch to Side By Side Diff Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>切換成並排 (Side By Side) 差異編輯器</translation>
     </message>
 </context>
 <context>
@@ -48682,7 +48682,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/diffeditor/sidebysidediffeditorwidget.cpp" line="517"/>
         <source>[%1] %2</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] %2</translation>
     </message>
 </context>
 <context>
@@ -49329,7 +49329,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/git/gitclient.cpp" line="336"/>
         <source>&lt;None&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;無&gt;</translation>
     </message>
 </context>
 <context>
@@ -49445,7 +49445,7 @@ Leave empty to search through the file system.</source>
     <message>
         <location filename="../../../src/plugins/git/gitsubmiteditor.cpp" line="230"/>
         <source>Refreshing Commit Data</source>
-        <translation type="unfinished"></translation>
+        <translation>正在重新整理提交資料</translation>
     </message>
 </context>
 <context>
@@ -49639,7 +49639,7 @@ Remote: %4</source>
         <location filename="../../../src/plugins/glsleditor/glsleditorplugin.cpp" line="121"/>
         <source>GLSL</source>
         <extracomment>GLSL sub-menu in the Tools menu</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>GLSL</translation>
     </message>
 </context>
 <context>
@@ -49647,7 +49647,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/help/helpmanager.cpp" line="139"/>
         <source>Update Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>更新文件</translation>
     </message>
 </context>
 <context>
@@ -49798,7 +49798,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/help/searchtaskhandler.cpp" line="52"/>
         <source>Get Help Online</source>
-        <translation type="unfinished"></translation>
+        <translation>取得線上說明</translation>
     </message>
 </context>
 <context>
@@ -49806,7 +49806,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/help/searchwidget.cpp" line="281"/>
         <source>Regenerate Index</source>
-        <translation type="unfinished"></translation>
+        <translation>重新產生索引</translation>
     </message>
 </context>
 <context>
@@ -50022,7 +50022,7 @@ Would you like to overwrite them?</source>
         <location filename="../../../src/plugins/ios/iosbuildstep.cpp" line="210"/>
         <source>iOS build</source>
         <comment>iOS BuildStep display name.</comment>
-        <translation type="unfinished"></translation>
+        <translation>iOS 建置</translation>
     </message>
 </context>
 <context>
@@ -50030,7 +50030,7 @@ Would you like to overwrite them?</source>
     <message>
         <location filename="../../../src/plugins/ios/iosconfigurations.cpp" line="306"/>
         <source>%1 Simulator</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 模擬器</translation>
     </message>
 </context>
 <context>
@@ -50178,7 +50178,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/ios/iosplugin.cpp" line="78"/>
         <source>Deploy on iOS</source>
-        <translation type="unfinished"></translation>
+        <translation>在 iOS 上部屬</translation>
     </message>
 </context>
 <context>
@@ -54563,7 +54563,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/propertyeditor/fileresourcesmodel.cpp" line="143"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟檔案</translation>
     </message>
 </context>
 <context>
@@ -54667,7 +54667,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/entertabdesigneraction.cpp" line="125"/>
         <source>Step into: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>進入：%1</translation>
     </message>
 </context>
 <context>
@@ -54895,7 +54895,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/colortool/colortool.cpp" line="54"/>
         <source>Edit Color</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯顏色</translation>
     </message>
 </context>
 <context>
@@ -55589,7 +55589,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmljseditor/qmljsquickfixes.cpp" line="138"/>
         <source>Add a Comment to Suppress This Message</source>
-        <translation type="unfinished"></translation>
+        <translation>新增註解以隱藏此訊息</translation>
     </message>
 </context>
 <context>
@@ -58272,7 +58272,7 @@ Row: %4, Column: %5
     <message>
         <location filename="../../../src/plugins/texteditor/fontsettings.cpp" line="173"/>
         <source>Unused variable</source>
-        <translation type="unfinished"></translation>
+        <translation>未使用變數</translation>
     </message>
 </context>
 <context>
@@ -60167,7 +60167,7 @@ Row: %4, Column: %5
     <message>
         <location filename="../../../src/plugins/studiowelcome/qml/welcomepage/AccountImage.qml" line="39"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>帳號</translation>
     </message>
 </context>
 <context>
@@ -60233,7 +60233,7 @@ Row: %4, Column: %5
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/imports/HelperWidgets/ColorCheckButton.qml" line="84"/>
         <source>Toggle color picker view</source>
-        <translation type="unfinished"></translation>
+        <translation>切換色彩挑選器檢視</translation>
     </message>
 </context>
 <context>
@@ -60371,7 +60371,7 @@ Row: %4, Column: %5
     <message>
         <location filename="../../../src/plugins/autotest/boost/boosttestconstants.h" line="35"/>
         <source>Boost Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Boost 測試</translation>
     </message>
 </context>
 <context>
@@ -60470,7 +60470,7 @@ Executable: %2</source>
     <message>
         <location filename="../../../src/plugins/autotoolsprojectmanager/autotoolsbuildconfiguration.cpp" line="63"/>
         <source>Autotools Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Autotools 管理員</translation>
     </message>
 </context>
 <context>
@@ -60478,7 +60478,7 @@ Executable: %2</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldevice.cpp" line="163"/>
         <source>Bare Metal Device</source>
-        <translation type="unfinished"></translation>
+        <translation>裸機裝置</translation>
     </message>
 </context>
 <context>
@@ -60486,7 +60486,7 @@ Executable: %2</source>
     <message>
         <location filename="../../../src/plugins/baremetal/iarewtoolchain.cpp" line="232"/>
         <source>IAREW %1 (%2, %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>IAREW %1 (%2, %3)</translation>
     </message>
 </context>
 <context>
@@ -60495,7 +60495,7 @@ Executable: %2</source>
         <location filename="../../../src/plugins/baremetal/iarewtoolchain.cpp" line="244"/>
         <location filename="../../../src/plugins/baremetal/iarewtoolchain.cpp" line="405"/>
         <source>IAREW</source>
-        <translation type="unfinished"></translation>
+        <translation>IAREW</translation>
     </message>
 </context>
 <context>
@@ -60525,7 +60525,7 @@ Executable: %2</source>
         <location filename="../../../src/plugins/baremetal/keiltoolchain.cpp" line="248"/>
         <location filename="../../../src/plugins/baremetal/keiltoolchain.cpp" line="400"/>
         <source>KEIL</source>
-        <translation type="unfinished"></translation>
+        <translation>KEIL</translation>
     </message>
 </context>
 <context>
@@ -60555,7 +60555,7 @@ Executable: %2</source>
         <location filename="../../../src/plugins/baremetal/sdcctoolchain.cpp" line="225"/>
         <location filename="../../../src/plugins/baremetal/sdcctoolchain.cpp" line="385"/>
         <source>SDCC</source>
-        <translation type="unfinished"></translation>
+        <translation>SDCC</translation>
     </message>
 </context>
 <context>
@@ -60959,7 +60959,7 @@ Executable: %2</source>
     <message>
         <location filename="../../../src/plugins/compilationdatabaseprojectmanager/compilationdatabaseprojectmanagerplugin.cpp" line="61"/>
         <source>Change Root Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>變更 Root 目錄</translation>
     </message>
 </context>
 <context>
@@ -61130,7 +61130,7 @@ Executable: %2</source>
     <message>
         <location filename="../../../src/plugins/genericprojectmanager/genericbuildconfiguration.cpp" line="55"/>
         <source>Generic Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>泛型管理員</translation>
     </message>
 </context>
 <context>
