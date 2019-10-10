@@ -35184,7 +35184,7 @@ when they are not required, which will improve performance in most cases.</sourc
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/imports/HelperWidgets/GradientDialogPopup.qml" line="94"/>
         <source>Gradient Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>梯度屬性</translation>
     </message>
 </context>
 <context>
@@ -35192,7 +35192,7 @@ when they are not required, which will improve performance in most cases.</sourc
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/imports/HelperWidgets/GradientPopupIndicator.qml" line="48"/>
         <source>Edit Gradient Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯梯度屬性</translation>
     </message>
 </context>
 <context>
@@ -36277,7 +36277,7 @@ when they are not required, which will improve performance in most cases.</sourc
     <message>
         <location filename="../../../src/libs/languageserverprotocol/lsptypes.cpp" line="138"/>
         <source>Expected a string or MarkupContent in MarkupOrString.</source>
-        <translation type="unfinished"></translation>
+        <translation>期望 MarkupOrString 中的內容是字串或 MarkupContent。</translation>
     </message>
 </context>
 <context>
@@ -41548,7 +41548,7 @@ Output:
     <message>
         <location filename="../../../src/plugins/clangtools/clangtoolslogfilereader.cpp" line="225"/>
         <source>File &quot;%1&quot; does not exist or is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>「%1」檔案不存在或無法讀取。</translation>
     </message>
 </context>
 <context>
@@ -41671,7 +41671,7 @@ Output:
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakebuildconfiguration.cpp" line="400"/>
         <source>CMake configuration set by the kit was overridden in the project.</source>
-        <translation>專案已覆寫工具所設的 CMake 組態設定。</translation>
+        <translation>專案已覆寫套件所設的 CMake 組態設定。</translation>
     </message>
 </context>
 <context>
@@ -43782,7 +43782,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/spotlightlocatorfilter.h" line="41"/>
         <source>Spotlight File Name Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Spotlight 檔名索引</translation>
     </message>
 </context>
 <context>
@@ -43844,7 +43844,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/themechooser.cpp" line="69"/>
         <source>unnamed</source>
-        <translation type="unfinished"></translation>
+        <translation>未命名</translation>
     </message>
 </context>
 <context>
@@ -44524,7 +44524,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cppbuiltinmodelmanagersupport.cpp" line="48"/>
         <source>%1 Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 內建</translation>
     </message>
 </context>
 <context>
@@ -50058,7 +50058,9 @@ Would you like to overwrite them?</source>
         <source>Team: %1
 App ID: %2
 Expiration date: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>團隊：%1
+App ID：%2
+到期日期：%3</translation>
     </message>
 </context>
 <context>
@@ -50297,7 +50299,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/ios/iosrunner.cpp" line="367"/>
         <source>Starting remote process.</source>
-        <translation type="unfinished"></translation>
+        <translation>啟動遠端處理程序。</translation>
     </message>
 </context>
 <context>
@@ -50331,7 +50333,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/ios/iossettingspage.cpp" line="42"/>
         <source>iOS</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS</translation>
     </message>
 </context>
 <context>
@@ -50341,7 +50343,7 @@ Expiration date: %3</source>
         <location filename="../../../src/plugins/ios/iossimulator.cpp" line="63"/>
         <location filename="../../../src/plugins/ios/iossimulator.cpp" line="74"/>
         <source>iOS Simulator</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS 模擬器</translation>
     </message>
 </context>
 <context>
@@ -50349,7 +50351,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/ios/iossimulator.cpp" line="259"/>
         <source>iOS Simulator</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS 模擬器</translation>
     </message>
 </context>
 <context>
@@ -50731,7 +50733,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/modeleditor/elementtasks.cpp" line="429"/>
         <source>Update Include Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>更新 Include 依賴</translation>
     </message>
 </context>
 <context>
@@ -50894,7 +50896,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/modeleditor/modeleditor.cpp" line="883"/>
         <source>Zoom: %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>縮放：%1%</translation>
     </message>
 </context>
 <context>
@@ -50910,7 +50912,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/modeleditor/modelsmanager.cpp" line="122"/>
         <source>Open Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟 Diagram</translation>
     </message>
 </context>
 <context>
@@ -50956,7 +50958,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/nim/nimconstants.h" line="54"/>
         <source>General</source>
-        <translation type="unfinished">一般</translation>
+        <translation>一般</translation>
     </message>
 </context>
 <context>
@@ -50964,7 +50966,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/nim/nimconstants.h" line="50"/>
         <source>Nim Compiler Build Step</source>
-        <translation type="unfinished"></translation>
+        <translation>Nim 編譯器建置步驟</translation>
     </message>
 </context>
 <context>
@@ -50973,7 +50975,7 @@ Expiration date: %3</source>
         <location filename="../../../src/plugins/nim/nimconstants.h" line="56"/>
         <location filename="../../../src/plugins/nim/nimconstants.h" line="57"/>
         <source>Nim build step</source>
-        <translation type="unfinished"></translation>
+        <translation>Nim 建置步驟</translation>
     </message>
 </context>
 <context>
@@ -50981,7 +50983,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/nim/nimconstants.h" line="61"/>
         <source>Nim Compiler Clean Step</source>
-        <translation type="unfinished"></translation>
+        <translation>Nim 編譯器清理步驟</translation>
     </message>
 </context>
 <context>
@@ -50990,7 +50992,7 @@ Expiration date: %3</source>
         <location filename="../../../src/plugins/nim/nimconstants.h" line="64"/>
         <location filename="../../../src/plugins/nim/nimconstants.h" line="65"/>
         <source>Nim clean step</source>
-        <translation type="unfinished"></translation>
+        <translation>Nim 清理步驟</translation>
     </message>
 </context>
 <context>
@@ -51024,7 +51026,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/nim/nimconstants.h" line="78"/>
         <source>Nim</source>
-        <translation type="unfinished"></translation>
+        <translation>Nim</translation>
     </message>
 </context>
 <context>
@@ -51033,7 +51035,7 @@ Expiration date: %3</source>
         <location filename="../../../src/plugins/nim/nimplugin.cpp" line="94"/>
         <source>Nim</source>
         <comment>SnippetProvider</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nim</translation>
     </message>
 </context>
 <context>
@@ -51059,7 +51061,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/nim/project/nimbuildconfigurationwidget.cpp" line="60"/>
         <source>Build directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>建置目錄：</translation>
     </message>
 </context>
 <context>
@@ -51067,7 +51069,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/nim/project/nimcompilerbuildstep.cpp" line="295"/>
         <source>Nim Compiler Build Step</source>
-        <translation type="unfinished"></translation>
+        <translation>Nim 編譯器建置步驟</translation>
     </message>
 </context>
 <context>
@@ -51123,7 +51125,7 @@ Expiration date: %3</source>
         <location filename="../../../src/plugins/nim/project/nimrunconfiguration.cpp" line="54"/>
         <location filename="../../../src/plugins/nim/project/nimrunconfiguration.cpp" line="55"/>
         <source>Current Build Target</source>
-        <translation type="unfinished"></translation>
+        <translation>目前編譯目標</translation>
     </message>
 </context>
 <context>
@@ -51132,7 +51134,7 @@ Expiration date: %3</source>
         <location filename="../../../src/plugins/nim/project/nimtoolchain.cpp" line="64"/>
         <location filename="../../../src/plugins/nim/project/nimtoolchainfactory.cpp" line="45"/>
         <source>Nim</source>
-        <translation type="unfinished"></translation>
+        <translation>Nim</translation>
     </message>
 </context>
 <context>
@@ -51153,7 +51155,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/nim/settings/nimcodestylesettingspage.cpp" line="53"/>
         <source>Nim</source>
-        <translation type="unfinished"></translation>
+        <translation>Nim</translation>
     </message>
 </context>
 <context>
@@ -51175,7 +51177,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/nim/settings/nimtoolssettingspage.cpp" line="64"/>
         <source>Nim</source>
-        <translation type="unfinished"></translation>
+        <translation>Nim</translation>
     </message>
 </context>
 <context>
@@ -51191,7 +51193,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/perforce/perforceplugin.cpp" line="1201"/>
         <source>Ignore Whitespace</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略空白</translation>
     </message>
 </context>
 <context>
@@ -51281,7 +51283,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/perfprofiler/perfoptionspage.cpp" line="39"/>
         <source>CPU Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU 使用量</translation>
     </message>
 </context>
 <context>
@@ -51289,7 +51291,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/perfprofiler/perfprofilerflamegraphmodel.cpp" line="158"/>
         <source>[unknown]</source>
-        <translation type="unfinished"></translation>
+        <translation>[未知]</translation>
     </message>
 </context>
 <context>
@@ -51315,7 +51317,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/perfprofiler/perfprofilerruncontrol.cpp" line="229"/>
         <source>Failed to transfer Perf data to perfparser.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法傳輸 Perf 資料至 perfparser。</translation>
     </message>
 </context>
 <context>
@@ -51672,7 +51674,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/perfprofiler/perfrunconfigurationaspect.cpp" line="40"/>
         <source>Performance Analyzer Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>效能分析工具設定</translation>
     </message>
 </context>
 <context>
@@ -51832,7 +51834,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/buildstep.cpp" line="128"/>
         <source>Build Step</source>
-        <translation type="unfinished"></translation>
+        <translation>建置步驟</translation>
     </message>
 </context>
 <context>
@@ -51856,7 +51858,7 @@ Expiration date: %3</source>
         <location filename="../../../src/plugins/projectexplorer/customtoolchain.cpp" line="91"/>
         <location filename="../../../src/plugins/projectexplorer/customtoolchain.cpp" line="409"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>自訂</translation>
     </message>
 </context>
 <context>
@@ -52113,7 +52115,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/devicesupport/sshsettingspage.cpp" line="80"/>
         <source>SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH</translation>
     </message>
 </context>
 <context>
@@ -52159,7 +52161,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/environmentaspect.cpp" line="46"/>
         <source>Run Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>執行環境</translation>
     </message>
 </context>
 <context>
@@ -52167,7 +52169,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/environmentaspectwidget.cpp" line="57"/>
         <source>Base environment for this run configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>此執行設定的基礎環境：</translation>
     </message>
 </context>
 <context>
@@ -52175,7 +52177,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/environmentwidget.cpp" line="85"/>
         <source>Variable already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>變數已存在。</translation>
     </message>
 </context>
 <context>
@@ -52202,7 +52204,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/gcctoolchain.cpp" line="279"/>
         <source>%1 (%2, %3 %4 in %5)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2, %3 %4 於 %5)</translation>
     </message>
 </context>
 <context>
@@ -52210,7 +52212,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/gcctoolchain.cpp" line="1497"/>
         <source>Parent toolchain:</source>
-        <translation type="unfinished"></translation>
+        <translation>上層工具鏈：</translation>
     </message>
 </context>
 <context>
@@ -52388,7 +52390,7 @@ Expiration date: %3</source>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonprojectpage.cpp" line="76"/>
         <source>untitled</source>
         <extracomment>File path suggestion for a new project. If you choose to translate it, make sure it is a valid path name without blanks and using only ascii chars.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>未命名</translation>
     </message>
 </context>
 <context>
@@ -52427,7 +52429,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonwizard.cpp" line="272"/>
         <source>No &apos;key&apos; in options object.</source>
-        <translation type="unfinished"></translation>
+        <translation>options 物件中沒有「key」。</translation>
     </message>
 </context>
 <context>
@@ -52643,7 +52645,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/kitchooser.cpp" line="119"/>
         <source>Kit of Active Project: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用中專案的套件：%1</translation>
     </message>
 </context>
 <context>
@@ -52651,7 +52653,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/kitconfigwidget.cpp" line="54"/>
         <source>Manage...</source>
-        <translation type="unfinished">管理...</translation>
+        <translation>管理...</translation>
     </message>
 </context>
 <context>
@@ -52769,7 +52771,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/msvctoolchain.cpp" line="1299"/>
         <source>Initialization:</source>
-        <translation type="unfinished"></translation>
+        <translation>初始化：</translation>
     </message>
 </context>
 <context>
@@ -52791,7 +52793,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/msvctoolchain.cpp" line="1707"/>
         <source>Clang</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang</translation>
     </message>
 </context>
 <context>
@@ -52799,7 +52801,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/msvctoolchain.cpp" line="1999"/>
         <source>clang-cl</source>
-        <translation type="unfinished"></translation>
+        <translation>clang-cl</translation>
     </message>
 </context>
 <context>
@@ -52808,7 +52810,8 @@ to project &quot;%2&quot;.</source>
         <location filename="../../../src/plugins/projectexplorer/msvctoolchain.cpp" line="2130"/>
         <source>Failed to retrieve MSVC Environment from &quot;%1&quot;:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>無法從「%1」取得 MSVC 環境：
+%2</translation>
     </message>
 </context>
 <context>
@@ -52817,7 +52820,8 @@ to project &quot;%2&quot;.</source>
         <location filename="../../../src/plugins/projectexplorer/osparser.cpp" line="56"/>
         <source>The process cannot access the file because it is being used by another process.
 Please close all running instances of your application before starting a build.</source>
-        <translation type="unfinished"></translation>
+        <translation>因為這個檔案正被其他處理程序使用，因此處理程序無法存取。
+請先關閉您應用程式的所有執行實體，再行建置。</translation>
     </message>
 </context>
 <context>
@@ -52995,7 +52999,7 @@ What should Qt Creator do now?</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/projecttree.cpp" line="323"/>
         <source>&lt;b&gt;Warning:&lt;/b&gt; This file is outside the project directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;警告：&lt;/b&gt;檔案在專案目錄外。</translation>
     </message>
 </context>
 <context>
@@ -53245,7 +53249,7 @@ What should Qt Creator do now?</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/runconfigurationaspects.cpp" line="459"/>
         <source>Use debug version of frameworks (DYLD_IMAGE_SUFFIX=_debug)</source>
-        <translation type="unfinished"></translation>
+        <translation>使用框架的除錯版本 (DYLD_IMAGE_SUFFIX=_debug)</translation>
     </message>
 </context>
 <context>
@@ -53296,7 +53300,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/selectablefilesmodel.cpp" line="744"/>
         <source>Edit Files</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯檔案</translation>
     </message>
 </context>
 <context>
@@ -53304,7 +53308,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/selectablefilesmodel.cpp" line="778"/>
         <source>Add Existing Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>新增現存目錄</translation>
     </message>
 </context>
 <context>
@@ -53557,7 +53561,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/defaultpropertyprovider.cpp" line="345"/>
         <source>C and C++ compiler paths differ. C compiler may not work.</source>
-        <translation type="unfinished"></translation>
+        <translation>C 和 C++ 編譯器的路徑不同。C 編譯器可能無法運作。</translation>
     </message>
 </context>
 <context>
@@ -53631,7 +53635,7 @@ These files are preserved.</source>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsbuildstep.cpp" line="128"/>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsbuildstep.cpp" line="825"/>
         <source>Qbs Build</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbs 建置</translation>
     </message>
 </context>
 <context>
@@ -53669,7 +53673,7 @@ These files are preserved.</source>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsinstallstep.cpp" line="63"/>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsinstallstep.cpp" line="315"/>
         <source>Qbs Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbs 安裝</translation>
     </message>
 </context>
 <context>
@@ -53677,7 +53681,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbskitinformation.cpp" line="52"/>
         <source>Change...</source>
-        <translation type="unfinished"></translation>
+        <translation>變更…</translation>
     </message>
 </context>
 <context>
@@ -53685,7 +53689,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbskitinformation.cpp" line="84"/>
         <source>Additional Qbs Profile Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>額外 Qbs 設定檔設定</translation>
     </message>
 </context>
 <context>
@@ -53693,7 +53697,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsnodetreebuilder.cpp" line="136"/>
         <source>Generated files</source>
-        <translation type="unfinished"></translation>
+        <translation>產出檔案</translation>
     </message>
 </context>
 <context>
@@ -53701,7 +53705,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsnodetreebuilder.cpp" line="215"/>
         <source>Qbs files</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbs 檔案</translation>
     </message>
 </context>
 <context>
@@ -53710,7 +53714,7 @@ These files are preserved.</source>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsprofilessettingspage.cpp" line="73"/>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsprojectmanagerconstants.h" line="97"/>
         <source>Qbs</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbs</translation>
     </message>
 </context>
 <context>
@@ -53869,7 +53873,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/desktopqmakerunconfiguration.cpp" line="138"/>
         <source>Qt Run Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt 執行設定</translation>
     </message>
 </context>
 <context>
@@ -53977,7 +53981,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/wizards/simpleprojectwizard.cpp" line="94"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>檔案</translation>
     </message>
 </context>
 <context>
@@ -54463,7 +54467,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/formeditor/backgroundaction.cpp" line="71"/>
         <source>Set the color of the canvas.</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇畫布顏色。</translation>
     </message>
 </context>
 <context>
@@ -54471,7 +54475,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/formeditor/formeditorview.cpp" line="281"/>
         <source>Form Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>表單編輯器</translation>
     </message>
 </context>
 <context>
@@ -54479,7 +54483,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/importmanager/importlabel.cpp" line="49"/>
         <source>Remove Import</source>
-        <translation type="unfinished"></translation>
+        <translation>移除匯入</translation>
     </message>
 </context>
 <context>
@@ -54500,7 +54504,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/importmanager/importswidget.cpp" line="40"/>
         <source>Import Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>匯入管理員</translation>
     </message>
 </context>
 <context>
@@ -54675,7 +54679,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/designercore/exceptions/exception.cpp" line="163"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤</translation>
     </message>
 </context>
 <context>
@@ -54735,7 +54739,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/designercore/metainfo/metainfo.cpp" line="98"/>
         <source>Invalid meta info</source>
-        <translation type="unfinished"></translation>
+        <translation>中繼資訊無效</translation>
     </message>
 </context>
 <context>
@@ -54903,7 +54907,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/colortool/colortool.cpp" line="215"/>
         <source>Color Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>色彩工具</translation>
     </message>
 </context>
 <context>
@@ -54985,7 +54989,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/connectioneditor/connectionview.cpp" line="167"/>
         <source>Connection View</source>
-        <translation type="unfinished"></translation>
+        <translation>連線檢視</translation>
     </message>
 </context>
 <context>
@@ -55095,7 +55099,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/pathtool/pathtool.cpp" line="102"/>
         <source>Edit Path</source>
-        <translation type="unfinished"></translation>
+        <translation>編譯路徑</translation>
     </message>
 </context>
 <context>
@@ -55103,7 +55107,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/pathtool/pathtool.cpp" line="298"/>
         <source>Path Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>路徑工具</translation>
     </message>
 </context>
 <context>
@@ -60105,7 +60109,7 @@ Row: %4, Column: %5
     <message>
         <location filename="../../../src/plugins/studiowelcome/qml/splashscreen/NoShowCheckbox.qml" line="34"/>
         <source>Don&apos;t show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>請勿再次顯示</translation>
     </message>
 </context>
 <context>
@@ -60320,7 +60324,7 @@ Row: %4, Column: %5
     <message>
         <location filename="../../../src/libs/languageserverprotocol/languagefeatures.cpp" line="379"/>
         <source>HoverContent should be either MarkedString, MarkupContent, or QList&lt;MarkedString&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>HoverContent 必須是 MarkedString、MarkupContent 或 QList&lt;MarkedString&gt;。</translation>
     </message>
 </context>
 <context>
@@ -60516,7 +60520,7 @@ Executable: %2</source>
     <message>
         <location filename="../../../src/plugins/baremetal/keiltoolchain.cpp" line="236"/>
         <source>KEIL %1 (%2, %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>KEIL %1 (%2, %3)</translation>
     </message>
 </context>
 <context>
@@ -61254,7 +61258,7 @@ Executable: %2</source>
     <message>
         <location filename="../../../src/plugins/nim/project/nimbuildconfiguration.cpp" line="74"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>一般</translation>
     </message>
 </context>
 <context>
@@ -61567,7 +61571,7 @@ Executable: %2</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/kitmanager.cpp" line="634"/>
         <source>Manage...</source>
-        <translation type="unfinished"></translation>
+        <translation>管理…</translation>
     </message>
 </context>
 <context>
@@ -61674,7 +61678,7 @@ Executable: %2</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbskitinformation.cpp" line="51"/>
         <source>Change...</source>
-        <translation type="unfinished"></translation>
+        <translation>變更…</translation>
     </message>
 </context>
 <context>
@@ -61682,7 +61686,7 @@ Executable: %2</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbskitinformation.cpp" line="77"/>
         <source>Additional Qbs Profile Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>額外 Qbs 設定檔設定</translation>
     </message>
 </context>
 <context>
